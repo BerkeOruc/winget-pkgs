@@ -1,0 +1,22 @@
+PackageIdentifier: BerkeOruc.Oplire
+PackageVersion: 0.1.0
+PackageName: Oplire
+PackageDescription: Reset OpenCode rate limit by managing Cloudflare WARP tunnel
+Publisher: Berke Oruc
+PublisherUrl: https://github.com/BerkeOruc/oplire
+Author: Berke Oruc
+License: MIT
+LicenseUrl: https://github.com/BerkeOruc/oplire/blob/main/LICENSE
+ShortDescription: Reset OpenCode rate limit via WARP tunnel
+PackageUrl: https://github.com/BerkeOruc/oplire
+Tags:
+  - opencode
+  - warp
+  - cloudflare
+Commands:
+  - oplire-reset
+Installers:
+  - Architecture: x64
+    InstallerUrl: https://github.com/BerkeOruc/oplire/releases/download/v0.1.0/oplire-windows.exe
+    InstallerSha256: REPLACEME
+Scope: machine
