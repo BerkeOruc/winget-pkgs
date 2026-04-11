@@ -9,13 +9,11 @@ License: MIT
 LicenseUrl: https://github.com/BerkeOruc/oplire/blob/main/LICENSE
 ShortDescription: Reset OpenCode rate limit via WARP tunnel
 PackageUrl: https://github.com/BerkeOruc/oplire
-#IconUrl: 
 Tags:
   - opencode
   - warp
   - cloudflare
   - rate-limit
-  - network
 Commands:
   - oplire-reset
 Installers:
